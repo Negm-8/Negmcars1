@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Snapinsta.app_453246301_18448529227004831_301254642230617944_n_1080.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
